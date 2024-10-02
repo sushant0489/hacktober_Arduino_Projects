@@ -50,7 +50,7 @@ If you're new to Arduino, here are some resources to get you started:
 - [Arduino Tutorial for Beginners](https://www.arduino.cc/en/Tutorial/HomePage)
 
 ## Visit my youtube channel for help
--[Tech Automation](https://youtu.be/xC-hV_XupIk/)
+-[Tech Automation](https://youtube.com/@tech_automate?si=mrVfc1npu92Y4TiV)
 
 Happy Hacking! 🎉
 We look forward to your contributions. Let’s make Hacktoberfest 2024 a great learning experience while building cool Arduino projects together!
